@@ -1,2 +1,2 @@
 # Sardor
-Salom99999
+Salom
